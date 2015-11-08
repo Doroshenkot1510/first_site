@@ -1,3 +1,3 @@
-$("submit").click(function() {
-	alert("Type your name")
+$(document).click(function() {
+	.alert()
 });
